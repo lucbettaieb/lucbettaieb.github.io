@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey!  I'm Luc.  I'm a robotics engineer based in San Francisco.  For work, I write software that power mobile and indsutrial robotic systems.  My interests there lie in on-robot infrastructure, sensor and device drivers, localization and state-estimation, system integration, quality engineering, and more.  You may think of me as a full-stack roboticist.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Outside of work, you will find me outside enjoying nature as much as possible.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+**Some Links**
+ - [github/lucbettaieb](https://github.com/lucbettaieb)
+ - [twitter/lucbettaieb](https://twitter.com/lucbettaieb)
+ - [linkedin/lucbettaieb](https://linkedin.com/in/lucbettaieb)
