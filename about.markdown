@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey!  I'm Luc.  I'm a robotics engineer based in San Francisco.  For work, I write software that power mobile and indsutrial robotic systems.  My interests there lie in on-robot infrastructure, sensor and device drivers, localization and state-estimation, system integration, quality engineering, and more.  You may think of me as a full-stack roboticist.
+Hey!  I'm Luc.  I'm a robotics engineer based in San Francisco.  For work, I write software that powers mobile and indsutrial robotic systems.  My interests within robotics revolve around on-robot infrastructure, sensor and device drivers, localization and state-estimation, system integration, quality engineering, and more.  You may think of me as a full-stack roboticist.
 
 Outside of work, you will find me outside enjoying nature as much as possible.
 
