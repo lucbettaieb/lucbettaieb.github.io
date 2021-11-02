@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vaccinate the World."
+title:  "Vaccinate the world"
 date:   2021-09-21 22:38:37 -0700
 categories: update
 ---
