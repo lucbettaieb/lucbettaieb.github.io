@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to write a ROS node if you don't like ROS"
+title:  "ROS nodes for ROS haters"
 date:   2022-09-10 22:38:37 -0700
 categories: update
 ---
