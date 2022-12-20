@@ -8,7 +8,7 @@ categories: update
 **This post is a work in progress!  Please forgive any typos or code errors.  I just want to get the idea down for now and will come back to make it totally correct later.**
 
 ## Motivation
-I've been thinking about writing this post for a while now.  I've been using ROS, the Robot Operating System, with varying degrees of intensity over the past 8 years.  It was how I was introduced to learning about distributed systems programming techniques used for robotics, and the software paradigms that it enforces have stuck with me and helped form how I view a lot of software.  The middleware itself, at least ROS 1, has it's definite downsides -- some of which have been addressed in ROS 2, but one set of issues take the cake for me.  Building your software with the middleware baked in.
+I've been thinking about writing this post for a while now.  I've been using ROS, the Robot Operating System, with varying degrees of intensity over the past 9 years.  It was how I was introduced to learning about distributed systems programming techniques used for robotics, and the software paradigms that it enforces have stuck with me and helped form how I view a lot of software.  The middleware itself, at least ROS 1, has it's definite downsides -- some of which have been addressed in ROS 2, but one set of issues take the cake for me.  Building your software with the middleware baked in.
 
 ROS developers have all seen this and are often guilty of it, especially when trying to get something to just work.  We write a node and just start gluing things to it.  Maybe bringing in some other libraries when we need to, but keeping all of the application logic baked into the ROS-sy bits.
 

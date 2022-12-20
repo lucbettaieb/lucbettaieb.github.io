@@ -12,6 +12,6 @@ categories: update
  - Do these things in partnership with the UN and COVAX.
  - Don't do these things without the right people.  Pay smart people you have on your staff already to find smart people to pay to do these things.
 
-Let's live up to our country's WW2 self-image.  We have the ability to do so, and you have the gumption to make it happen.  Rugged individualism has no place here.
+Rugged individualism has no place here.
 
 Reading: [We Have Gone Badly Off Track in the Global Covid Fight](https://www.nytimes.com/2021/09/21/opinion/sunday/covid-vaccine-world.html)
