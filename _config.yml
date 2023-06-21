@@ -21,7 +21,7 @@
 title: Luc Bettaieb
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  "creativity is the enemy" means "innovation within boundaries"
+  innovation within boundaries
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucbettaieb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucbettaieb
